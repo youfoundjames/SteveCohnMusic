@@ -4,6 +4,21 @@ body {
     color: white;
 }
 
+.navStyles {
+    width: 25%;
+    margin: auto;
+    justify-content: center;
+    font-size: medium;
+    color: white;
+}
+
+
+.navLinkStyles:visited  {
+    border: 15px mediumorchid;
+    color: white;
+}
+
+
 .row {
     display: flex;
     flex-direction: row;
@@ -58,3 +73,15 @@ button {
     font-size: 30px;
 }
 
+
+iframe {
+    border: 0;
+    width: 350px;
+    height: 470px; 
+    padding: 5px;
+}
+
+.navigationBar {
+    margin-right: 1000px;
+    color: greenyellow;
+}
