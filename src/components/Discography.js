@@ -17,7 +17,7 @@ const Discography = () => {
          </div>
          <div>
             <h3>SELECTED DISCOGRAPHY</h3>
-            1. Arts and Crafts (1984 w/ Jay Elfenbaum, Chuck Fertal)<br/>
+            1. Arts and Crafts (1984 w/ Jay Elfenbein, Chuck Fertal)<br/>
 2. Beggar and the Robot in Diamonds<br/>
 3. Sufi Dancers<br/>
 4. Pallete<br/>

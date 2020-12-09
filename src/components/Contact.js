@@ -13,8 +13,14 @@ const Contact = () => {
                     <div className="columnPadded">
                         <br /> <br />
                         louyk [at] hotmail [dot] com <br/>
-                            stevecohn.bandcamp.com 
-                           
+                            stevecohn.bandcamp.com <br/>
+                            steven.l.cohn on facebook<br/><br/>
+
+                            Steve Cohn<br/>
+                            P.O. Box 5861<br/>
+                            Englewood, NJ 07631<br/>
+                            (201) 647-4042
+           
                     </div>
                 </div>
             </FadeIn>

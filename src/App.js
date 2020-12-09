@@ -7,6 +7,7 @@ import Video from './components/Video';
 import Press from './components/Press';
 import Contact from './components/Contact';
 import Navigation from './components/Navigation';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
          <Route path="/contact" component={Contact}/>
        </Switch>
     </div> 
+    <Footer />
   </BrowserRouter>
   );
 }

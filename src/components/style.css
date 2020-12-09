@@ -10,6 +10,13 @@ body {
     font-style: unset;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+margin-top: 100px;
+margin-bottom: 15px;
+    font-size: 12px;
+}
 
 .navLinkStyles {
     padding: 15px;
