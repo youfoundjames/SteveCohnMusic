@@ -5,16 +5,14 @@ body {
 }
 
 .navStyles {
-    width: 25%;
-    margin: auto;
+    display: flex;
     justify-content: center;
-    font-size: medium;
-    color: white;
+    font-style: unset;
 }
 
 
-.navLinkStyles:visited  {
-    border: 15px mediumorchid;
+.navLinkStyles {
+    padding: 15px;
     color: white;
 }
 
