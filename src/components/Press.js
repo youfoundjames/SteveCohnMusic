@@ -26,7 +26,7 @@ const Press = () => {
          "If there are nine ways to play jazz, this guy plays the eleventh."<br/>
          <i>Barry Schaffer, saxophonist</i><br/><br/>
 
-         "Passion is key and it's unmistakable in Cohn's performances on piano, percussion, and a handful of Asian wind instruments. Cohn organizes his sounds against sturdy concepts... [his] episodic adventures range from seemningly spontaneous melodies that magically harmonize to wide-open spaces that give birth to tension filled dramas."<br/>
+         "Passion is key and it's unmistakable in Cohn's performances on piano, percussion, and a handful of Asian wind instruments. Cohn organizes his sounds against sturdy concepts... [his] episodic adventures range from seemingly spontaneous melodies that magically harmonize to wide-open spaces that give birth to tension filled dramas."<br/>
          <i>Sam Prestiani, Jazziz</i><br/><br/>
          </div>
       </FadeIn>
