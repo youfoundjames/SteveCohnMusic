@@ -21,7 +21,7 @@ const Press = () => {
          
          <img src={roulette} style={{ width: "100%" }} alt="Steve Cohn playing piano at Roulette"/><br/><br/>
 
-         “Cohn’s intricate counterpoint and drama-infused harmonies are equally effective on muscular jazz-hued sprints and pointilistic passages. His cogent use of ethnic instruments goes well beyond stock poses of texture and transcendentalism. There are few American pianists who have Cohn’s talents” <br/><i>Bill Shoemaker, Downbeat Magazine</i><br/><br/>
+         “Cohn’s intricate counterpoint and drama-infused harmonies are equally effective on muscular jazz-hued sprints and pointilistic passages. His cogent use of ethnic instruments goes well beyond stock poses of texture and transcendentalism. There are few American pianists who have Cohn’s talents.” <br/><i>Bill Shoemaker, Downbeat Magazine</i><br/><br/>
     
          "If there are nine ways to play jazz, this guy plays the eleventh."<br/>
          <i>Barry Schaffer, saxophonist</i><br/><br/>

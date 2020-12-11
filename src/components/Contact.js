@@ -6,15 +6,15 @@ const Contact = () => {
     return (
        <div>
           <FadeIn>
-                <div className="row">
+                <div className="row" style={{marginTop: "20px"}}>
                     <div className="columnPadded">
                         <img src={pnoandbass} style={{ width: "100%" }} alt="Steve Cohn playing piano with a bass player"/>
                     </div>
                     <div className="columnPadded">
                         <br /> <br />
-                        louyk [at] hotmail [dot] com <br/>
+                        email: louyk [at] hotmail [dot] com <br/>
                             stevecohn.bandcamp.com <br/>
-                            steven.l.cohn on facebook<br/><br/>
+                            Steven Louis Cohn on facebook<br/><br/>
 
                             Steve Cohn<br/>
                             P.O. Box 5861<br/>
